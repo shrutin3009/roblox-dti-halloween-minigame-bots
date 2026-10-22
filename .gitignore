@@ -1,0 +1,39 @@
+# Local Python environment and caches
+work/
+.venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+
+# Generated session data
+*.log
+*.csv
+*.pid
+**/.running.lock
+**/calibration.json
+**/calibration.png
+**/numbered-grid.png
+**/status.json
+**/status.tmp
+**/monitor.png
+**/before-ticket.png
+**/last-result.png
+**/randomness-audit.json
+**/observed-centers.json
+**/observed-roblox.png
+**/partial-round.png
+**/native-diagnostic.png
+**/station-after-move.png
+**/station-current.png
+**/station-close-view.png
+**/test-win.png
+**/tracker-preview.png
+**/benchmark-*.png
+**/loss-*.png
+*.bak

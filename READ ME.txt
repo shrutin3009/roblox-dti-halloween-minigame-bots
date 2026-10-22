@@ -1,0 +1,3 @@
+Open README.md for the full setup and usage guide.
+New installation: run Setup.command first.
+Start Tarot.command and Start Apple Bobbing.command wait 10 seconds. Escape stops.

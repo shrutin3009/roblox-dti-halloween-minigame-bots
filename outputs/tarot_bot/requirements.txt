@@ -1,0 +1,6 @@
+numpy>=1.26
+Pillow>=10
+opencv-python-headless>=4.9
+mss>=10
+pyobjc-framework-Quartz>=10
+pyobjc-framework-Cocoa>=10
